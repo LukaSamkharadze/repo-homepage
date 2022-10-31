@@ -1,0 +1,19 @@
+@font-face {
+    font-family: Roboto;
+    src: url(../font/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family: Poppins;
+    src: url(../font/Poppins-Medium.ttf);
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(../font/Inter-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: Inter400;
+    src: url(../font/Inter-Regular.ttf);
+}
